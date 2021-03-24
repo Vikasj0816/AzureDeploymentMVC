@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HWZ9LxtKIzL4OWF4La5Y2/FTkEUwxfi+dlPiHuglmHC+J0UfwPGwjHnpj/faVQ8gJvlkVqOPWwVtCMTR6Np74w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vikas J\\source\\Stage 4\\Azure\\FirstAzureAppSolution\\FirstAzureAppProject\\FirstAzureAppProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vikas J\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vikas J\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
